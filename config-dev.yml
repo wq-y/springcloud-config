@@ -1,3 +1,4 @@
-qqq: www
+config:
+  info: version=1
  
   
